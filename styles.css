@@ -1,11 +1,11 @@
 li {
   margin-bottom: 16px;
 }
-li > :first-child > span {
+ul > :first-child > span {
   background-color: red;
   color: white;
 }
-li > :last-child > span {
+ul > :last-child > span {
   background-color: black;
   color: white;
 }
